@@ -11,6 +11,7 @@ h1 {
   font: 600 3.5em "Raleway", sans-serif;
   color: rgba(0, 0, 0, 0.5);
   text-transform: uppercase;
+  text-align: center;
   letter-spacing: 0.5em;
   width: 100%;
 }
